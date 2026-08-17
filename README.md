@@ -106,4 +106,4 @@ A separate **`_Measures`** table holds the DAX measures used across the report (
 
 ---
 
-*Built in Power BI Desktop as a portfolio project analyzing telecom customer churn.*
+*Built in Power BI Desktop as a portfolio project analyzing a fictitious telecom company's customer churn.*
