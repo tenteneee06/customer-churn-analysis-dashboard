@@ -69,8 +69,11 @@ Cross-cutting view tying customer support activity to churn outcomes:
 ## Skills
 
 **Power Query:** data cleaning, shaping raw customer/billing/support data for analysis
+
 **DAX:** CALCULATE, DIVIDE, SUM, COUNTNONNULL, and other aggregation/ratio measures for churn rate and service metrics
+
 **Data Modelling:** dedicated measures table, KPI card design, slicer and play-axis interactivity
+
 **Data Visualization:** combo charts, scatter plots, geographic maps, and clustered bar/column charts for churn segmentation
 
 ## Data Model
